@@ -5,7 +5,7 @@ This implementation is more for my own purposes and to get a better idea of how 
 ## Requirements
 * Python 3.x
 * Numpy
-* Matplotlib
+* Matplotlib (optional, to run Testing.py and graph results)
 
 ## Usage
 The constructor takes in two arguments, ```points_list``` and ```k```:
