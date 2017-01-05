@@ -18,7 +18,7 @@ Calling ```final_centroids``` after creating the object returns the final centro
 
 ## Example
 
-Seeds from randomly generated data, x∈[0, 100], y∈[0, 50]:
+Seeds from randomly generated data, x∈[0, 100], y∈[0, 50], n = 50, k = 7:
 ![alt text](https://github.com/JasonFuu/KMeansPlusPlus/blob/master/Screenshots/figure_1-1.png)
 
 ## Notes
