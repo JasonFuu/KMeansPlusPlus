@@ -8,7 +8,7 @@ This implementation is more for my own purposes and to get a better idea of how 
 * Matplotlib
 
 ## Usage
-The constructor takes in two arguments, points_list and k:
+The constructor takes in two arguments, ```points_list``` and ```k```:
 * ```points_list```: 2d list containing n-dimensional points
 
   points_list = [[Point1], [Point2], etc.]; n-dimensional point x = [X1, X2, ..., Xn]
